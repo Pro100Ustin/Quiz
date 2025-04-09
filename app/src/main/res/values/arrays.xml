@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Легкие вопросы -->
+    <string-array name="easy_questions">
+        <item>Какая столица России?</item>
+        <item>Сколько планет в Солнечной системе?</item>
+        <item>Кто написал "Евгений Онегин"?</item>
+        <item>Какой химический символ у золота?</item>
+        <item>Сколько дней в году?</item>
+        <item>Какая самая длинная река в мире?</item>
+        <item>Кто изобрел лампочку?</item>
+        <item>Какой самый большой океан на Земле?</item>
+        <item>Сколько цветов в радуге?</item>
+        <item>Какая самая высокая гора в мире?</item>
+    </string-array>
+
+    <string-array name="easy_answers">
+        <item>Москва</item>
+        <item>8</item>
+        <item>Пушкин</item>
+        <item>Au</item>
+        <item>365</item>
+        <item>Нил</item>
+        <item>Эдисон</item>
+        <item>Тихий</item>
+        <item>7</item>
+        <item>Эверест</item>
+    </string-array>
+
+    <string-array name="easy_options_1">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+    </string-array>
+
+    <string-array name="easy_options_2">
+        <item>8</item>
+        <item>9</item>
+        <item>7</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="easy_options_3">
+        <item>Пушкин</item>
+        <item>Лермонтов</item>
+        <item>Толстой</item>
+        <item>Достоевский</item>
+    </string-array>
+
+    <string-array name="easy_options_4">
+        <item>Au</item>
+        <item>Ag</item>
+        <item>Fe</item>
+        <item>Cu</item>
+    </string-array>
+
+    <string-array name="easy_options_5">
+        <item>365</item>
+        <item>360</item>
+        <item>370</item>
+        <item>375</item>
+    </string-array>
+
+    <string-array name="easy_options_6">
+        <item>Нил</item>
+        <item>Амазонка</item>
+        <item>Миссисипи</item>
+        <item>Янцзы</item>
+    </string-array>
+
+    <string-array name="easy_options_7">
+        <item>Эдисон</item>
+        <item>Тесла</item>
+        <item>Фарадей</item>
+        <item>Вольт</item>
+    </string-array>
+
+    <string-array name="easy_options_8">
+        <item>Тихий</item>
+        <item>Атлантический</item>
+        <item>Индийский</item>
+        <item>Северный Ледовитый</item>
+    </string-array>
+
+    <string-array name="easy_options_9">
+        <item>7</item>
+        <item>6</item>
+        <item>8</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="easy_options_10">
+        <item>Эверест</item>
+        <item>К2</item>
+        <item>Килиманджаро</item>
+        <item>Монблан</item>
+    </string-array>
+
+    <!-- Средние вопросы -->
+    <string-array name="medium_questions">
+        <item>В каком году основан Санкт-Петербург?</item>
+        <item>Какой химический элемент обозначается как Fe?</item>
+        <item>Кто изобрел телефон?</item>
+        <item>Какой самый большой спутник в Солнечной системе?</item>
+        <item>В каком году произошла Великая Октябрьская революция?</item>
+        <item>Какой химический элемент имеет атомный номер 79?</item>
+        <item>Кто написал "Война и мир"?</item>
+        <item>Какой самый большой остров в мире?</item>
+        <item>В каком году началась Первая мировая война?</item>
+        <item>Какой химический элемент имеет символ Hg?</item>
+    </string-array>
+
+    <string-array name="medium_answers">
+        <item>1703</item>
+        <item>Железо</item>
+        <item>Белл</item>
+        <item>Ганимед</item>
+        <item>1917</item>
+        <item>Золото</item>
+        <item>Толстой</item>
+        <item>Гренландия</item>
+        <item>1914</item>
+        <item>Ртуть</item>
+    </string-array>
+
+    <string-array name="medium_options_1">
+        <item>1703</item>
+        <item>1700</item>
+        <item>1705</item>
+        <item>1698</item>
+    </string-array>
+
+    <string-array name="medium_options_2">
+        <item>Железо</item>
+        <item>Золото</item>
+        <item>Серебро</item>
+        <item>Медь</item>
+    </string-array>
+
+    <string-array name="medium_options_3">
+        <item>Белл</item>
+        <item>Эдисон</item>
+        <item>Тесла</item>
+        <item>Маркони</item>
+    </string-array>
+
+    <string-array name="medium_options_4">
+        <item>Ганимед</item>
+        <item>Титан</item>
+        <item>Тритон</item>
+        <item>Фобос</item>
+    </string-array>
+
+    <string-array name="medium_options_5">
+        <item>1917</item>
+        <item>1916</item>
+        <item>1918</item>
+        <item>1915</item>
+    </string-array>
+
+    <string-array name="medium_options_6">
+        <item>Золото</item>
+        <item>Серебро</item>
+        <item>Платина</item>
+        <item>Медь</item>
+    </string-array>
+
+    <string-array name="medium_options_7">
+        <item>Толстой</item>
+        <item>Достоевский</item>
+        <item>Тургенев</item>
+        <item>Чехов</item>
+    </string-array>
+
+    <string-array name="medium_options_8">
+        <item>Гренландия</item>
+        <item>Новая Гвинея</item>
+        <item>Борнео</item>
+        <item>Мадагаскар</item>
+    </string-array>
+
+    <string-array name="medium_options_9">
+        <item>1914</item>
+        <item>1913</item>
+        <item>1915</item>
+        <item>1916</item>
+    </string-array>
+
+    <string-array name="medium_options_10">
+        <item>Ртуть</item>
+        <item>Свинец</item>
+        <item>Висмут</item>
+        <item>Таллий</item>
+    </string-array>
+
+    <!-- Сложные вопросы -->
+    <string-array name="hard_questions">
+        <item>Какая самая глубокая точка Мирового океана?</item>
+        <item>В каком году была открыта первая экзопланета?</item>
+        <item>Кто доказал теорему Ферма?</item>
+        <item>Какой химический элемент имеет самую высокую температуру плавления?</item>
+        <item>Какой самый большой кратер в Солнечной системе?</item>
+        <item>В каком году был открыт первый антибиотик?</item>
+        <item>Какой химический элемент имеет самую низкую температуру кипения?</item>
+        <item>Кто открыл закон всемирного тяготения?</item>
+        <item>Какой самый большой астероид в Солнечной системе?</item>
+        <item>В каком году был открыт первый вирус?</item>
+    </string-array>
+
+    <string-array name="hard_answers">
+        <item>Марианская впадина</item>
+        <item>1992</item>
+        <item>Уайлс</item>
+        <item>Вольфрам</item>
+        <item>Южный полюс-Эйткен</item>
+        <item>1928</item>
+        <item>Гелий</item>
+        <item>Ньютон</item>
+        <item>Церера</item>
+        <item>1892</item>
+    </string-array>
+
+    <string-array name="hard_options_1">
+        <item>Марианская впадина</item>
+        <item>Пуэрто-Рико</item>
+        <item>Тонга</item>
+        <item>Филиппинская впадина</item>
+    </string-array>
+
+    <string-array name="hard_options_2">
+        <item>1992</item>
+        <item>1995</item>
+        <item>1990</item>
+        <item>1988</item>
+    </string-array>
+
+    <string-array name="hard_options_3">
+        <item>Уайлс</item>
+        <item>Перельман</item>
+        <item>Пуанкаре</item>
+        <item>Риман</item>
+    </string-array>
+
+    <string-array name="hard_options_4">
+        <item>Вольфрам</item>
+        <item>Осмий</item>
+        <item>Рений</item>
+        <item>Тантал</item>
+    </string-array>
+
+    <string-array name="hard_options_5">
+        <item>Южный полюс-Эйткен</item>
+        <item>Гейл</item>
+        <item>Гершель</item>
+        <item>Тихо</item>
+    </string-array>
+
+    <string-array name="hard_options_6">
+        <item>1928</item>
+        <item>1925</item>
+        <item>1930</item>
+        <item>1935</item>
+    </string-array>
+
+    <string-array name="hard_options_7">
+        <item>Гелий</item>
+        <item>Водород</item>
+        <item>Неон</item>
+        <item>Аргон</item>
+    </string-array>
+
+    <string-array name="hard_options_8">
+        <item>Ньютон</item>
+        <item>Галилей</item>
+        <item>Кеплер</item>
+        <item>Эйнштейн</item>
+    </string-array>
+
+    <string-array name="hard_options_9">
+        <item>Церера</item>
+        <item>Паллада</item>
+        <item>Веста</item>
+        <item>Гигея</item>
+    </string-array>
+
+    <string-array name="hard_options_10">
+        <item>1892</item>
+        <item>1888</item>
+        <item>1895</item>
+        <item>1890</item>
+    </string-array>
+</resources> 

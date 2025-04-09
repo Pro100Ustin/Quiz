@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Викторина</string>
+    <string name="login">Вход</string>
+    <string name="login_button">Войти</string>
+    <string name="login_success">Вход успешен</string>
+    <string name="login_failed">Неверное имя пользователя или пароль</string>
+    <string name="login_link">Уже есть аккаунт? Войти</string>
+    <string name="username_hint">Имя пользователя</string>
+    <string name="password_hint">Пароль</string>
+    <string name="toggle_password">Показать/скрыть пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="register_link">Нет аккаунта? Зарегистрироваться</string>
+    <string name="registration_success">Регистрация успешна</string>
+    <string name="user_exists">Пользователь уже существует</string>
+    <string name="fill_all_fields">Пожалуйста, заполните все поля</string>
+    <string name="quiz_title">Викторина</string>
+    <string name="start_game">Начать игру</string>
+    <string name="history">История</string>
+    <string name="select_difficulty">Выберите сложность</string>
+    <string name="easy">Легкий</string>
+    <string name="medium">Средний</string>
+    <string name="hard">Сложный</string>
+    <string name="time_left">Осталось: %d сек</string>
+    <string name="score">Счет: %d</string>
+    <string name="result">Результат</string>
+    <string name="your_result">Ваш результат: %d</string>
+    <string name="restart">Начать заново</string>
+    <string name="share_result">Поделиться результатом</string>
+    <string name="share_text">Я набрал %d очков в викторине!</string>
+    <string name="share_title">Поделиться результатом</string>
+    <string name="history_title">История игр</string>
+    <string name="history_item">Результат: %d очков</string>
+    <string name="history_subtitle">Сложность: %s, Дата: %s</string>
+    <string name="hint_5050">50/50</string>
+    <string name="hint_friend">Помощь друга</string>
+    <string name="share_question">Вопрос из викторины: %s\nВарианты ответов:\n1. %s\n2. %s\n3. %s\n4. %s</string>
+    <string name="share_question_title">Поделиться вопросом</string>
+    <string name="hint_already_used">Эта подсказка уже использована</string>
+    <string name="hint_5050_used">Подсказка 50/50 использована</string>
+    <string name="hint_friend_used">Подсказка помощь друга использована</string>
+</resources>
